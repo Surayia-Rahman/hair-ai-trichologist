@@ -21,7 +21,7 @@ hair-ai-trichologist/
 │
 ├── data/
 │   └── processed/           # Trained model weight checkpoints (.pth)
-│
+│   └── raw/                 # hair images of 5 different classes (dataset found on Kaggle)
 ├── reports/
 │   └── figures/             # Auto-generated visual diagnostics
 │       ├── real_hair_distribution.png
