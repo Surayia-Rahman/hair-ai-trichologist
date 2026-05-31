@@ -46,19 +46,12 @@ hair-ai-trichologist/
 
 ## 📊 Analytics & Interactive UI
 
-### 1. Model Convergence Performance
+### Model Convergence Performance
 
 The model freezes pre-trained extraction layers and fits custom dense layers on a dataset of ~2,000 multi-class images, achieving solid accuracy in a highly constrained training layout.
 
-### 2. Live Application Interface
+(Relevant snaps can be found in the reports folder dir)
 
-Our live web app streams the backend pipeline seamlessly to the end-user. Below are the live snapshots of the interface capturing inputs and resolving a clinical verdict:
-
-| User Submissions Dashboard | Deep Diagnostic Output Report |
-| --- | --- |
-|  |  |
-
----
 
 ## 🛠️ Local Deployment Guide
 
